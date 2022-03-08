@@ -1,0 +1,15 @@
+
+
+.form-content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 351px;
+
+  transition: ease 1s;
+}
+
+.form-content input{
+  width: calc(100% - 50px);
+  height: 30px;
+}

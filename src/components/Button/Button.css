@@ -1,0 +1,11 @@
+.btn-icon{
+  background-color: transparent;
+  border: none;
+  padding: 10px;
+  max-width: 40px;
+  height: 40px;
+
+  transition: linear 1s;
+
+}
+
